@@ -1,11 +1,11 @@
 export const SITE = {
-	name: 'AstroWind',
+	name: 'StatusArea',
 
-	origin: 'https://astrowind.vercel.app',
+	origin: 'https://StatusArea.vercel.app',
 	basePathname: '/',
 	trailingSlash: false,
 
-	title: 'AstroWind — Your website with Astro + Tailwind CSS',
+	title: 'StatusArea — Your website with Astro + Tailwind CSS',
 	description: '🚀 AstroWind is a free and ready to start template to make your website using Astro and Tailwind CSS.',
 
 	googleAnalyticsId: false, // or "G-XXXXXXXXXX",
